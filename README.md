@@ -17,32 +17,24 @@ I enjoy building scalable systems, automating processes, and learning new techno
 -  Automation
 -  AI Integrations
 ## 🛠️ Technologies & Tools
--  Cloud & DevOps
--  Google Cloud Platform (GCP)
--  Docker
--  Kubernetes
--  Terraform
--  Linux
--  Bash
--  Backend Development
--  Python
--  Flask
--  FastAPI
--  REST APIs
--  SQL
--  Tools
--  Git & GitHub
--  Postman
--  Nginx
--  VS Code
+
+| ☁️ Cloud & DevOps | 💻 Backend Development | 🔧 Tools |
+| ----------------- | ---------------------- | -------- |
+| GCP               | Python                 | Git      |
+| Docker            | Flask                  | GitHub   |
+| Kubernetes        | FastAPI                | Postman  |
+| Terraform         | REST APIs              | Nginx    |
+| Linux             | SQL                    | VS Code  |
+| Bash              |                        |          |
+
 ## 📚 Currently Learning
--  Web development
--  App and Mobile development
--  Advanced Kubernetes
--  Infrastructure as Code
--  Cloud Architecture
--  AI/ML Integrations
--  DevOps Best Practices
+
+| 🌐 Development           | ☁️ Cloud & DevOps      | 🤖 AI & Architecture |
+| ------------------------ | ---------------------- | -------------------- |
+| Web Development          | Advanced Kubernetes    | AI/ML Integrations   |
+| App & Mobile Development | Infrastructure as Code | Cloud Architecture   |
+|                          | DevOps Best Practices  |                      |
+
 
 ## 📂 Projects
 🔹 Infrastructure & Cloud Labs
